@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: pipelines-java
+  name: pipelines-java-from-github
   annotations:
     dev.azure.com/project-repo: lzhuang-test-proj2/org-lzhuang.pipelines-java2
     dev.azure.com/build-definition: Test
