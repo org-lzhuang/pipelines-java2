@@ -5,7 +5,6 @@ metadata:
   annotations:
     dev.azure.com/project-repo: lzhuang-test-proj2/org-lzhuang.pipelines-java2
     dev.azure.com/build-definition: Test
-    dev.azure.com/project: lzhuang-test-proj2
 spec:
   type: service
   lifecycle: unknown
